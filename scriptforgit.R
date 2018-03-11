@@ -2,3 +2,6 @@
 x <- 8 #there are 8 planets
 print("Hello there")
 x
+print("it will be mars")
+y<-6
+y
